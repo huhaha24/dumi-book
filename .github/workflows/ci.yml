@@ -34,7 +34,7 @@ jobs:
         with:
           branch: build
           folder: dist
-          # target-folder: fe-book
+          # target-folder: docs
 
 
 

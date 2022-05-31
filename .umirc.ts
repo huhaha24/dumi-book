@@ -1,20 +1,15 @@
 import { defineConfig } from 'dumi';
 
+const repo = 'dumi-book';
+
 export default defineConfig({
-  title: 'fe-book',
+  title: 'dumi-book',
   mode: 'site',
   devServer: {
     port: 1998,
   },
-
-  base:
-    process.env.NODE_ENV === 'production'
-      ? 'https://github.com/huhaha24/dumi-book'
-      : '/',
-  publicPath:
-    process.env.NODE_ENV === 'production'
-      ? 'https://github.com/huhaha24/dumi-book/'
-      : '/',
+  base: process.env.NODE_ENV === 'production' ? `/${repo}/` : '/',
+  publicPath: process.env.NODE_ENV === 'production' ? `/${repo}/` : '/',
 
   // more config: https://d.umijs.org/config
 });
