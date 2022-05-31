@@ -11,7 +11,7 @@ $ npm i
 Start the dev server,
 
 ```bash
-$ npm start
+$ npm run dev
 ```
 
 Build site app,
