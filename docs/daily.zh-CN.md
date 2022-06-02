@@ -1,8 +1,6 @@
 ---
 nav:
-  title: 帮助
+  title: 每日一练
 ---
-
-# 帮助
 
 Balabala...

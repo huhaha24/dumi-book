@@ -1,9 +1,9 @@
 ---
 nav:
-  title: 快速上手
+  title: 知识总结
   order: 1
 ---
 
-# 快速上手
+# 知识点
 
 Balabala...
