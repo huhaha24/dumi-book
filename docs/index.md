@@ -1,9 +1,9 @@
 ---
 hero:
   title: 前端进阶之路
-  desc: 呼呼的前端世界
+  desc: 呼呼的博客📖
   actions:
-    - text: Come On !
+    - text: 去看看 👉
       link: /book
 features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
