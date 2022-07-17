@@ -95,7 +95,7 @@ foo() // TypeError: Cannot read property 'a' of undefined
 --------------------------------
 
 // 非严格模式，独立函数调用默认指向全局对象
-const a = 1
+var a = 1
 
 function foo() {
   console.log(this.a)
