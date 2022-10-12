@@ -5,27 +5,51 @@ nav:
 toc: content
 ---
 
+<h1>倒计时：<b style='color: red; font-size: 48px;'>98</b> 天</h1>
+
 ## 计划表
+
+<Alert>
+  人的一切痛苦，本质上都是对自己的无能的愤怒！💢
+
+  <p>
+    <Badge>准备阶段</Badge>
+    <div style='margin-left: 12px;'>时间：<span style='color: grey;'>2022-10-10 ～ 2022-11-10<span></div>
+    <div style='margin-left: 12px;'>目标：<span style='color: grey;'>对整体面试有把握<span></div>
+  </p>
+
+  <p>
+    <Badge>试水阶段</Badge>
+    <div style='margin-left: 12px;'>时间：<span style='color: grey;'>2022-11-10 ～ 2022-12-10<span></div>
+    <div style='margin-left: 12px;'>目标：<span style='color: grey;'>面试通过率达80%以上<span></div>
+  </p>
+
+  <p>
+    <Badge>选择阶段</Badge>
+    <div style='margin-left: 12px;'>时间：<span style='color: grey;'>2022-12-10 ～ 2022-01-10<span></div>
+    <div style='margin-left: 12px;'>目标：<span style='color: grey;'>能做出最佳的选择<span></div>
+  </p>
+</Alert>
+
+<hr/>
 
 ### 第一周
 
-🎯 目标：原型链相关的内容
+🕙 时间：2022-10-10 ~ 2022-10-16
 
-🧾 打分：🌟🌟🌟
+🎯 目标：性能优化相关的内容
 
-| 日期             |              Todo               |                                       备注 |
-| :--------------- | :-----------------------------: | -----------------------------------------: |
-| 6 月 15 日(周三) |          this 指向 3h           | bind、apply、call 的关系，new 做了什么操作 |
-| 6 月 16 日(周四) |        js 原型链相关 8h         |                     学习 + 代码实践 + 总结 |
-| 6 月 17 日(周五) | 【你真的理解 js 原型链吗？】 4h |          思考：原型链和 class 有什么关系？ |
-| 6 月 18 日(周六) |          class 相关 4h          |            理清 class 和 js 继承之间的关系 |
-| 6 月 19 日(周天) |        总结相关面试题 8h        |               对于这类面试题，要做到都会答 |
+🧾 打分：🌟🌟🌟✨
 
-> 一周总结：没有按时完成，感觉原型这块学起来还是比较吃力，涉及到的知识比较多，越到后面越迷糊。既然那么困难的话，就再来一周吧，欲速则不达。
+<img src='../../static/weeklyPlan/10.10-10.16.png'>
+
+> 一周总结：---
+
+<hr/>
 
 ### 第二周
 
-🎯 目标：巩固原型链相关的内容
+🎯 目标：微前端相关内容
 
 🧾 打分：🌟
 
